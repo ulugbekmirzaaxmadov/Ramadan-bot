@@ -3,7 +3,7 @@ import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-Token = "7654182339:AAFnOgNQ6ivRGgZHAj3kIc7mXQjvZHBwt0o"
+Token = "Token here"
 user_file = "user.json"
 
 roza_times = {
